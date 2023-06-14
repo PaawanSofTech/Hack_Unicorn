@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding-left: calc(100vw - 100%);
+}
+
+.fade-on-hover:hover {
+  opacity: 0.8;
+}
+
